@@ -13,7 +13,7 @@
 
 | Desktop | Android  |
 | ------------------- | ------------------- |
-| <img src=""> | <img src=""> |
+| <img src="https://github.com/Samuraiflamesf/Page_Cadastro01/blob/main/_components/img/singinpageflamebox.netlify.app_.png?raw=true"> | <img src="https://github.com/Samuraiflamesf/Page_Cadastro01/blob/main/_components/img/singinpageflamebox.netlify.app_(iPad%20Mini).png?raw=true"> |
  
  
 

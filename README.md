@@ -8,9 +8,10 @@
 </div>
 
 ## Implementações/Features  
- - [ ] Ainda não sei.
 
-# Desktop
+ - [ ] Não sei
+  
+# Layout
 
 | Desktop | Android  |
 | ------------------- | ------------------- |
